@@ -1,3 +1,4 @@
 <?php 
-	 print 'BCyoshikawa';
+	print 'BCyoshikawa';
+	echo 'BC';
 ?>
